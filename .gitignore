@@ -1,0 +1,9 @@
+bin
+certifi*
+chardet*
+forecastio*
+haversine*
+idna*
+requests*
+urllib3*
+zipcodes*
